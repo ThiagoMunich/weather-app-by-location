@@ -31,8 +31,6 @@ export default function Home() {
           maximumAge: 10000,
         })
 
-        console.log("Location received:", location)
-
         if (!location || !location.coords) {
           setErrorMessage("Não foi possível obter sua localização")
           setLoading(false)
