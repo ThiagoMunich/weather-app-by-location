@@ -1,5 +1,14 @@
 # Sujeito Programador - Weather App
 
+<p align="center">
+ <img src="https://i.imgur.com/U6HDZOD.png" width="50%" height="50%" />
+</p>
+
+<video width="600" controls>
+  <source src="https://imgur.com/a/gArzP3I" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Overview
 Sujeito Programador - Weather App is a simple weather application that allows users to check real-time weather information for different locations. The app is built using React and integrates with a weather API to fetch current weather data.
 
