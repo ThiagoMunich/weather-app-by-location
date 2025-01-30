@@ -1,5 +1,5 @@
 import React from "react"
-import { View, Text, StyleSheet } from "react-native"
+import { Text, StyleSheet } from "react-native"
 
 import { LinearGradient } from "expo-linear-gradient"
 
@@ -23,9 +23,9 @@ const styles = StyleSheet.create({
   header: {
     width: "95%",
     height: "55%",
+    borderRadius: 8,
     alignItems: "center",
     justifyContent: "space-evenly",
-    borderRadius: 8,
   },
   date: {
     color: "#FFF",
@@ -38,7 +38,7 @@ const styles = StyleSheet.create({
   },
   temperature: {
     color: "#FFF",
-    fontSize: 80,
+    fontSize: 112,
     fontWeight: "bold",
   },
 })
