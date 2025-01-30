@@ -1,5 +1,7 @@
 # Sujeito Programador - Weather App
 
+https://github.com/user-attachments/assets/2b008312-0a4a-4289-af43-59751362bf98
+
 
 ## Overview
 Sujeito Programador - Weather App is a simple weather application that allows users to check real-time weather information for different locations. The app is built using React and integrates with a weather API to fetch current weather data.
